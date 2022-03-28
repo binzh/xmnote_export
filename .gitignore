@@ -3,3 +3,4 @@ notes-splited/*.html
 .git
 *.png
 *.html
+.DS_Store
